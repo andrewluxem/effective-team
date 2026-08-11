@@ -1,0 +1,17 @@
+{
+  "name": "effective-team",
+  "version": "1.0.0",
+  "description": "Builds an evidence-bound team health check and action plan without judging personalities. Static: no network calls, no remote fetch, no telemetry, and no auto-update.",
+  "author": {
+    "name": "Andrew Luxem"
+  },
+  "homepage": "https://github.com/andrewluxem/effective-team",
+  "repository": "https://github.com/andrewluxem/effective-team",
+  "license": "MIT",
+  "keywords": [
+    "agent-skills",
+    "claude-code",
+    "team-health",
+    "team-effectiveness"
+  ]
+}
